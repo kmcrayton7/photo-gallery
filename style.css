@@ -42,3 +42,7 @@ body {
 footer {
 	padding: 10px;
 }
+
+div, aside, article {
+	border: 1px solid red;
+} 

@@ -1,0 +1,44 @@
+img {
+	width:200px;
+	height:128px;	
+}
+
+.clear {
+	clear:both;
+}
+
+#grid {
+	width: 620px;
+	margin: 40px 130px;
+}
+
+.grid-element {
+	float:left;
+	padding: 2px;
+}
+
+aside {
+	position: relative;
+	left: 120px;
+	top: 100px;
+}
+
+footer, h1, h2 {
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Great Vibes', cursive;
+	font-size: 60px;
+	margin: 6px;
+}
+
+body {
+	font-family: 'Lato', sans-serif;
+	background-color: #B1F2FF;
+	
+}
+
+footer {
+	padding: 10px;
+}
